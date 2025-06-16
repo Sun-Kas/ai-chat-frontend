@@ -27,3 +27,12 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+### Result show
+
+![manu](./images/菜单页.png)
+
+![Chat](./images/聊天室.png)
+
+![Manus](./images/AI智能体.png)
